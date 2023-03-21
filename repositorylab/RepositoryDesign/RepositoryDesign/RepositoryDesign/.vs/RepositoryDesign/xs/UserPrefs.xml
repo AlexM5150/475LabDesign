@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CFFC41FD-0161-48EE-BA19-EF80CBFEC96F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConsoleClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DomainModel/Course.cs">
+    <Files>
+      <File FileName="ConsoleClient/Program.cs" Line="29" Column="1" />
+      <File FileName="ConsoleClient/Menu.cs" />
+      <File FileName="DomainModel/Teacher.cs" Line="1" Column="1" />
+      <File FileName="DomainModel/Course.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepositoryDesign" expanded="True">
+            <Node name="ConsoleClient" expanded="True" />
+            <Node name="DomainModel" expanded="True">
+              <Node name="Model1.tt" expanded="True">
+                <Node name="Course.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
